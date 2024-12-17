@@ -5,7 +5,7 @@
 [![cboard-org](https://circleci.com/gh/cboard-org/cboard.svg?style=shield)](https://app.circleci.com/pipelines/github/cboard-org/cboard)
 # Cboard - AAC Communication Board for browsers
 
-[Cboard](https://app.cboard.io) is an augmentative and alternative communication (AAC) web application, allowing users with speech and language impairments (autism, cerebral palsy) to communicate with symbols and text-to-speech.
+[Cboard](https://app.cboard.io) is an augmentative and alternative communication (AAC) web application, allowing users with speech and language impairments  (autism, cerebral palsy) to communicate with symbols and text-to-speech.
 
 ![Cboard GIF demo](public/videos/demo.gif)
 
